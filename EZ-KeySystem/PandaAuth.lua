@@ -143,7 +143,7 @@ local function PandaLibNotification(message)
         starter_gui_service:SetCore(
             "SendNotification",
             {
-                Title = "Toshy Hub - Key System",
+                Title = "Toshy Hub",
                 Text = "Copied URL To Paste Into Your Browser",
                 Duration = 6,
                 Icon = "rbxassetid://" .. CustomLogo
