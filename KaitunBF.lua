@@ -1,1 +1,1 @@
-return loadstring(game:HttpGet("https://raw.githubusercontent.com/ToshyVHS/OBF/refs/heads/main/ToshyKaitun.lua"))()
+return loadstring(game:HttpGet("https://raw.githubusercontent.com/ToshyVHS/OBF/refs/heads/main/ToshyHub/KaitunBF.lua"))()
