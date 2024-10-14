@@ -18,7 +18,7 @@ if gameId == 2753915549 or gameId == 4442272183 or gameId == 7449423635 then
     local MenuUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/ZoiIntra/SetUIY/main/One.lua"))()
 MenuUI:WindowCreate("Toshy Hub","rbxassetid://80086118575102","dsc.gg/toshyscript")
 MenuUI:ButtonAdd("Menu",function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/ToshyVHS/ToshyHub/refs/heads/main/BloxFruits.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ToshyVHS/ToshyHub/refs/heads/main/MainBF.lua"))()
     MenuUI:WindowDelete()
 end)
 MenuUI:ButtonAdd("Kaitun",function()
@@ -26,9 +26,9 @@ MenuUI:ButtonAdd("Kaitun",function()
     MenuUI:WindowDelete()
 end)
 elseif gameId == 142823291 then
-    -- Meme Sea
+    -- Murder Mystery 2
     print("Murder Mystery 2 Detected, Running Script")
-    safeLoad("https://raw.githubusercontent.com/ToshyVHS/ToshyHub/refs/heads/main/MurderMystery2.lua")
+    safeLoad("https://raw.githubusercontent.com/ToshyVHS/ToshyHub/refs/heads/main/MainMM2.lua")
 else
     print("Unrecognized Game. No Scripts Were Executed.")
 end
