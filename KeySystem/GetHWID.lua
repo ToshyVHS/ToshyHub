@@ -144,7 +144,7 @@ local function PandaLibNotification(message)
             "SendNotification",
             {
                 Title = "Toshy Hub",
-                Text = "Link Copied, Into You Browser!",
+                Text = "Link Copied, Into Your Browser!",
                 Duration = 6,
                 Icon = "rbxassetid://" .. CustomLogo
             }
