@@ -20,6 +20,10 @@ elseif gameId == 142823291 then
     -- Murder Mustery 2
     print("Murder Mystery Detected, Loading Script...")
     safeLoad("https://raw.githubusercontent.com/ToshyVHS/ToshyHub/refs/heads/main/MainMM2.lua")
+elseif gameId == 16732694052 then
+    -- Fisch
+    print("Fisch Detected, Loading Script...")
+    safeLoad("https://raw.githubusercontent.com/ToshyVHS/ToshyHub/refs/heads/main/MainFisch.lua")
 else
     print("Game Not Recognized, Script Not Executed.")
 end
