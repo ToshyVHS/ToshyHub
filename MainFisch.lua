@@ -1,1 +1,1 @@
-return loadstring(game:HttpGet("https://raw.githubusercontent.com/ToshyVHS/OBF/refs/heads/main/TsMainFisch.lua"))()
+return loadstring(game:HttpGet("https://raw.githubusercontent.com/ToshyWare/Obfuscated/refs/heads/main/TsFisch.lua"))()
