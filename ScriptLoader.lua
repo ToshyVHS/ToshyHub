@@ -24,6 +24,10 @@ elseif gameId == 16732694052 then
     -- Fisch
     print("Fisch Detected, Loading Script...")
     safeLoad("https://raw.githubusercontent.com/ToshyVHS/ToshyHub/refs/heads/main/MainFisch.lua")
+elseif gameId == 10260193230 then
+    -- Meme Sea
+    print("Meme Sea Detected, Loading Script...")
+    safeLoad("https://raw.githubusercontent.com/ToshyVHS/ToshyHub/refs/heads/main/MainMemeSea.lua")
 else
     print("Game Not Recognized, Script Not Executed.")
 end
