@@ -1,1 +1,1 @@
-return loadstring(game:HttpGet("https://raw.githubusercontent.com/ToshyWare/Obfuscated/refs/heads/main/TsMainBF.lua"))()
+game.Players.LocalPlayer:Kick("Discontinued, Join Discord to Get the New Script")
